@@ -1,0 +1,15 @@
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\bin\Debug\net6.0\HuffmanDecoder.exe
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\bin\Debug\net6.0\HuffmanDecoder.deps.json
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\bin\Debug\net6.0\HuffmanDecoder.runtimeconfig.json
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\bin\Debug\net6.0\HuffmanDecoder.dll
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\bin\Debug\net6.0\HuffmanDecoder.pdb
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.csproj.AssemblyReference.cache
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.AssemblyInfoInputs.cache
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.AssemblyInfo.cs
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.dll
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\refint\HuffmanDecoder.dll
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.pdb
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\HuffmanDecoder.genruntimeconfig.cache
+C:\Users\Alikhan\source\repos\HuffmanDecoder\HuffmanDecoder\obj\Debug\net6.0\ref\HuffmanDecoder.dll
