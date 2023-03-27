@@ -1,0 +1,15 @@
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\bin\Debug\net6.0\HuffmanTree.exe
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\bin\Debug\net6.0\HuffmanTree.deps.json
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\bin\Debug\net6.0\HuffmanTree.runtimeconfig.json
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\bin\Debug\net6.0\HuffmanTree.dll
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\bin\Debug\net6.0\HuffmanTree.pdb
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.csproj.AssemblyReference.cache
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.AssemblyInfoInputs.cache
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.AssemblyInfo.cs
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.csproj.CoreCompileInputs.cache
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.dll
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\refint\HuffmanTree.dll
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.pdb
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\HuffmanTree.genruntimeconfig.cache
+C:\Users\Alikhan\source\repos\HuffmanTree\HuffmanTree\obj\Debug\net6.0\ref\HuffmanTree.dll
